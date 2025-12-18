@@ -1,0 +1,16 @@
+# report folders
+/reports/
+target/
+
+# temp folders
+/tmp/
+# build folders
+/build/
+/dist/
+# IDE folders
+/.idea/
+/.vscode/
+# OS generated files
+.DS_Store
+Thumbs.db
+
